@@ -1,0 +1,25 @@
+{
+  "name": "ng-click-remove",
+  "homepage": "https://github.com/ah450/ng-click-remove",
+  "authors": [
+    "Ahmed H. Ismail <ahm3d.hisham@gmail.com>"
+  ],
+  "description": "Angular directive that removes a class from an element on click",
+  "main": "click_remove.js",
+  "moduleType": [],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "jquery": "^2.2.3"
+  }
+}
